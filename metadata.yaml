@@ -1,0 +1,38 @@
+_repo: The-Twins-of-Emu-Plains_60447
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mills, J. Dewar
+    aliases:
+    - Dewar-Mills, John
+    - Mills, Dewar
+    gutenberg_agent_id: '50964'
+    url: http://www.gutenberg.org/2009/agents/50964
+creator:
+  author:
+    agent_name: Bruce, Mary Grant
+    birthdate: 1878
+    deathdate: 1958
+    gutenberg_agent_id: '1371'
+    url: http://www.gutenberg.org/2009/agents/1371
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Grant_Bruce
+description: ''
+gutenberg_issued: '2019-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Australia -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- GITenberg
+title: The Twins of Emu Plains
+url: http://www.gutenberg.org/ebooks/60447
